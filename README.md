@@ -20,6 +20,9 @@ QA maze представляет собой обычный лабиринт, в 
 
 ![DMG01AndCar](https://i.imgur.com/ByUZF0s.jpeg) 
 
+[![Gameplay](https://img.youtube.com/vi/KRdyYhdo3kw/0.jpg)](https://www.youtube.com/watch?v=KRdyYhdo3kw)
+
+
 
 
 ## Лицензия
