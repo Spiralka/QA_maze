@@ -20,7 +20,7 @@ QA maze представляет собой обычный лабиринт, в 
 
 ![DMG01AndCar](https://i.imgur.com/ByUZF0s.jpeg) 
 
-#Немного геймплея
+# Немного геймплея
 
 P.S. Я бы записал весь геймплей с GameBoy, но, оказывается, очень сложно одновременно играть и снимать, поэтому во второй части видео я запустил игру на эмуляторе.
 [![Gameplay](https://img.youtube.com/vi/KRdyYhdo3kw/0.jpg)](https://www.youtube.com/watch?v=KRdyYhdo3kw)
